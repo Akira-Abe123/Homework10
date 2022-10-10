@@ -1,4 +1,4 @@
-﻿Country,Year,GDP per capita,Land area (sq. km),Continent,CO2 per capita
+﻿Country,Year,GDP per capita,Landmass,Continent,CO2 per capita
 Afghanistan,1990,,652860,Asia,0.238
 Afghanistan,1991,,652860,Asia,0.206
 Afghanistan,1992,,652860,Asia,0.099
